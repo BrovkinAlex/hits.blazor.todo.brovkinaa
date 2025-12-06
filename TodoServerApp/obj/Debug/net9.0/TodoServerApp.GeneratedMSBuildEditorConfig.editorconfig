@@ -192,8 +192,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+[/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/Components/Pages/Tasks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/Components/Pages/Weather.razor]

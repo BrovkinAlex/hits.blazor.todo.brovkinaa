@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dzmdOCCCVLg=",
+  "dgSpecHash": "ZBpiLOyLpug=",
   "success": true,
   "projectFilePath": "/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/TodoServerApp.csproj",
   "expectedPackageFiles": [
@@ -57,7 +57,8 @@
     "/home/guestrunner/.nuget/packages/system.reflection.metadata/7.0.0/system.reflection.metadata.7.0.0.nupkg.sha512",
     "/home/guestrunner/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/home/guestrunner/.nuget/packages/system.text.json/9.0.8/system.text.json.9.0.8.nupkg.sha512",
-    "/home/guestrunner/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+    "/home/guestrunner/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512",
+    "/home/guestrunner/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
   ],
   "logs": []
 }
