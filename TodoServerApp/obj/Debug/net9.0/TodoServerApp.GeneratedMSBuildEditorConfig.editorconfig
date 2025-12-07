@@ -192,8 +192,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/Components/Pages/Tasks.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy5yYXpvcg==
+[/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/Components/Pages/TaskForm.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/Components/Pages/Weather.razor]
@@ -215,3 +215,7 @@ build_metadata.AdditionalFiles.CssScope = b-mhhimmfoax
 [/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-95b59jfuw5
+
+[/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/Components/Pages/Tasks.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9UYXNrcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-t1vi0gwlg3

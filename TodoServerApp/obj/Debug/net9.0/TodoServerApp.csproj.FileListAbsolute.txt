@@ -191,8 +191,6 @@
 /home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/compressed/y5avpe8mhw-h1s4sie4z3.gz
 /home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/compressed/a9smhknwiq-63fj8s7r0e.gz
 /home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/compressed/tvw8whlc9f-0j3bgjxly4.gz
-/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/compressed/w6ewy14x7s-5bvfd2lvl0.gz
-/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/compressed/gb1xckdptl-5bvfd2lvl0.gz
 /home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/staticwebassets.build.json
 /home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/staticwebassets.development.json
 /home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -208,3 +206,6 @@
 /home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.TodoServerApp.props
 /home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.TodoServerApp.props
 /home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/staticwebassets.pack.json
+/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/scopedcss/Components/Pages/Tasks.razor.rz.scp.css
+/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/compressed/w6ewy14x7s-bdaaha2ces.gz
+/home/guestrunner/csharp/hits.blazor.todo.brovkinaa/TodoServerApp/obj/Debug/net9.0/compressed/gb1xckdptl-bdaaha2ces.gz
